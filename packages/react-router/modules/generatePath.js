@@ -1,4 +1,4 @@
-import pathToRegexp from "path-to-regexp";
+import * as pathToRegexp from "path-to-regexp";
 
 const patternCache = {};
 const cacheLimit = 10000;

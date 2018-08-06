@@ -1,6 +1,6 @@
-import React from "react";
-import PropTypes from "prop-types";
-import invariant from "invariant";
+import * as React from "react";
+import * as PropTypes from "prop-types";
+import * as invariant from "invariant";
 
 /**
  * The public API for prompting the user before navigating away

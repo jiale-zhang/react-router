@@ -1,7 +1,7 @@
-import warning from "warning";
-import invariant from "invariant";
-import React from "react";
-import PropTypes from "prop-types";
+import * as warning from "warning";
+import * as invariant from "invariant";
+import * as React from "react";
+import * as PropTypes from "prop-types";
 import { createLocation, createPath } from "history";
 import Router from "./Router";
 
